@@ -694,7 +694,7 @@ button:focus {
 	height: 80px;
 	width: 80px;
 	float: left;
-	border-radius: 50%;
+	border-radius: 100%;
 	margin-right: 15px;
 }
 
@@ -1085,7 +1085,7 @@ button:focus {
 /*--------------------*/
 
 #mu-sponsors {
-	background-color: #fff;
+	background-color: #eee;
 	display: inline;
 	float: left;
 	width: 100%;

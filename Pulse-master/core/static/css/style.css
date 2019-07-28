@@ -234,7 +234,7 @@ button:focus {
 	display: inline;
 	float: left;
 	width: 100%;
-	background-position: center center;
+	background-position: center;
 	background-attachment: fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -1085,13 +1085,14 @@ button:focus {
 /*--------------------*/
 
 #mu-sponsors {
-	background-color: #eee;
+	background-color: #FFFFFF;
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
 .mu-sponsors-area {
+	background-color: #FFFFFF;
 	display: inline;
 	float: left;
 	padding: 100px 0;
@@ -1101,17 +1102,17 @@ button:focus {
 .mu-sponsors-content {
 	display: inline;
 	float: left;
-	margin-top: 50px;
+	margin-top: 25px;
 	width: 100%;
 }
 
 .mu-sponsors-single {
-	background: #eee;
+	background: #FFFFFF;
 	display: inline;
 	float: left;
 	margin-top: 10px;
 	margin-bottom: 15px;
-	width: 100%;
+	width: 150%;
 }
 
 

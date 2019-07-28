@@ -3,7 +3,7 @@ from .secrets import SECRET_KEY
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-ALLOWED_HOSTS = ['52.7.120.250']
+ALLOWED_HOSTS = ['52.7.120.250', '127.0.0.1']
 DEBUG = True
 
 ROOT_URLCONF = "core.urls"

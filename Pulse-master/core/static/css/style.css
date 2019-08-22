@@ -470,7 +470,7 @@ button:focus {
 .mu-about-right {
 	display: inline;
 	float: left;
-	margin-top: 0px;
+	margin-top: px;
 	width: 100%;
 }
 
@@ -599,7 +599,7 @@ button:focus {
 /*--------------------*/
 
 #mu-schedule {
-	background-color: #f8f8f8;
+	background-color: #FFFF;
 	display: inline;
 	float: left;
 	width: 100%;
